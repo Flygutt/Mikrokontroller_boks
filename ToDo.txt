@@ -1,0 +1,9 @@
+
+=================================================
+|	* Hull burde være 2.5mm for gjenging	|
+|	* Midtre plate kræsjer med pin		|
+|	* Spacere				|
+|	* Knapper				|
+|	* Kjøpe inn M3 - maskinskruer		|
+|	*					|
+=================================================
